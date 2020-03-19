@@ -1,5 +1,9 @@
 #! /bin/usr/python3
 
+# Code inspired by https://realpython.com/build-recommendation-engine-collaborative-filtering/
+# and https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d
+# Data files available at https://grouplens.org/datasets/movielens/
+
 import sys
 
 import pandas as pd 
